@@ -1,0 +1,1 @@
+cat ../data/popular_names.txt | head -n $1
